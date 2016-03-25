@@ -1,0 +1,2 @@
+module RequestExampleHelper
+end
